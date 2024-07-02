@@ -129,13 +129,13 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>junit</artifactId>
-            <version>1.47</version>
+            <version>1166.va_436e268e972</version>
             <optional>true</optional><!-- from jenkins-core detached-plugins -->
         </dependency>
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>testng-plugin</artifactId>
-            <version>1.14</version>
+            <version>730.732.v959a_3a_a_eb_a_72</version>
             <optional>true</optional>
         </dependency>
 
@@ -174,7 +174,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>jacoco</artifactId>
-            <version>2.1.0</version>
+            <version>3.3.2.1</version>
             <optional>true</optional>
             <exclusions>
                 <exclusion>
@@ -202,7 +202,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>script-security</artifactId>
-            <version>1229.v4880b_b_e905a_6</version>
+            <version>1336.vf33a_a_9863911</version>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
